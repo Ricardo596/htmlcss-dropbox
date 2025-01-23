@@ -3,8 +3,14 @@
     box-sizing: border-box;
     background-color: whitesmoke;
 }
+.right {text-align: right;
+    position: relative;
+    bottom: 25px;
+    left: 150px;
+    color: black;
+}
 .container {display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: o auto;
     padding: 0 2px;
 }
